@@ -17,3 +17,5 @@ jobs:
 
       - name: Show files
         run: ls -la
+      - name: Mistake
+      - run: systemctl pwd pgrep
